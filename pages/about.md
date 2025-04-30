@@ -14,14 +14,13 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The African American Women Writers Collection honors the voices of Black women authors whose works explore identity, resilience, and justice. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- This collection showcases their literary contributions and lasting cultural impact through poetry, prose, and historical writings.
+- Their words continue to inspire generations, empowering readers to reflect, resist, and reimagine the world around them.
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Writers History
