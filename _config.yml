@@ -21,12 +21,11 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 #
 # title of site appears in banner
 title: African American Women Writers 
-# tagline, a short phrase that will appear throughout the site in the top banner
+# african american women writers
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+description: African American women writers have powerfully shaped literature and culture through stories rooted in resilience, identity, and social justice. From slavery narratives to contemporary works, they explore themes of race, gender, love, and liberation. Influential voices like Zora Neale Hurston, Toni Morrison, Maya Angelou, and Alice Walker have inspired generations, using poetry, fiction, and essays to uplift Black experiences and challenge oppression. Their words continue to spark change and celebrate the richness of African American heritage.
 author: Felicia Rogers
 
 ##########
@@ -34,7 +33,7 @@ author: Felicia Rogers
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: african american writers
 
 ##########
 # Site/Organization Branding 
